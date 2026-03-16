@@ -1,9 +1,19 @@
 # Análise de Engajamento no Instagram Lifestyle
 
+## 📚 Contexto Acadêmico
+
+Disciplina : Modeçagem de Bancos Baseados em Grafos 
+
+Professor : Matheus Ferreira
+
+Período : Primeiro Semestre/2026
+
+Curso : Bootcamp Neo4j - Análise de Dados com Grafos
+
 ## 📑Contexto do Problema
 Uma startup de análise de mídias sociais deseja criar um produto que ofereça insights sobre engajamento e conexões entre usuários do Instagram, focando em conteúdo de estilo de vida (lifestyle). O dataset instagram_usage_lifestyle.csv contém dados reais de interações, perfis e conteúdos relacionados a moda, viagens, fitness, comida e outros temas lifestyle.
 
-## 🎯 INSIGHTS DE NEGÓCIO (O QUE DESCOBRIMOS)
+## 🎯 INSIGHTS DE NEGÓCIO
 
 - Cross-category Influencers: 23% dos influenciadores atuam em mais de uma categoria, principalmente Moda + Beleza
 - Engajamento por Local: Usuários do Rio de Janeiro têm 15% mais engajamento que a média nacional
@@ -35,4 +45,13 @@ instagram-neo4j-project/
     ├── modelo_grafo.png
     └── arrows_model.json
 
-``` 
+```
+
+## Autor
+- Marcus Guedes
+- Linkedin : https://www.linkedin.com/in/marcusguedes/
+- GitHub : https://github.com/MCLG1661
+
+## 📅 Data de Entrega
+
+16/03/2026 
