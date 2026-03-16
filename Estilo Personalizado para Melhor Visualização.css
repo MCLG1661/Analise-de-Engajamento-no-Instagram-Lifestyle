@@ -1,0 +1,49 @@
+/* Cole no estilo do Neo4j Browser */
+User {
+  color: #4287f5;
+  size: 50;
+  caption: '{username}';
+}
+
+Influencer {
+  color: #f54242;
+  size: 75;
+  border-color: #gold;
+  border-width: 3px;
+}
+
+Category {
+  color: #42f57b;
+  size: 40;
+  caption: '{name}';
+}
+
+Hashtag {
+  color: #f5a442;
+  size: 30;
+  caption: '{tag}';
+}
+
+Location {
+  color: #a142f5;
+  size: 35;
+  caption: '{city}';
+}
+
+Post {
+  color: #42f5f5;
+  size: 25;
+  caption: '{type}';
+}
+
+FOLLOWS {
+  color: #888888;
+  width: 2px;
+  caption: 'since {since}';
+}
+
+INTERACTED_WITH {
+  color: #f5f542;
+  width: 3px;
+  caption: '{type}';
+}
